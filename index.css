@@ -1,0 +1,32 @@
+body{
+    margin: 30px;
+}
+img{
+    width: 160px;
+    height: 200px;
+    border-radius: 80px;
+    float: left;
+}
+.intro{
+    margin-left: 180px;
+    padding-top: 18px;
+}
+hr{
+    margin-top: 60px;
+}
+td{
+    padding: 10px;
+    padding-right: 20px;
+}
+th{
+    padding: 5px;
+    padding-right: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+a{
+    margin-top: 500px;
+    /* padding-top: 50px; */
+}
